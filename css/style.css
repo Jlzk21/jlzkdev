@@ -799,6 +799,7 @@ form textarea {
 	bottom: 2.1rem;
 
 	right: 2.1rem;
+	z-index: 999999;
 
 }
 
